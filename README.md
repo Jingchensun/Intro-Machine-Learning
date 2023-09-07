@@ -1,6 +1,6 @@
 # Image_processing_scripts
 
-Some basic Python code for image processing
+Introduction for each jupyter notebook file.
 
 ## 1 Text to json
 
