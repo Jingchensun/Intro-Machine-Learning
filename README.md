@@ -18,10 +18,10 @@ An jupyter notebook code that can be used to extract the images from a video.
 
 An jupyter notebook code that can be used to merge the images into a video.
 
-## 5 NLP Dataset - Natural Instruction v2.8[https://instructions.apps.allenai.org/#data] processing
+## 5 NLP Dataset - [Natural Instruction v2.8](https://instructions.apps.allenai.org/#data) processing
 
 An jupyter notebook code that can be used to modify the json data to jsonl data.
 
-## 6 NLP Dataset - DiffuSeq[https://github.com/Shark-NLP/DiffuSeq] dataset processing
+## 6 NLP Dataset - [DiffuSeq](https://github.com/Shark-NLP/DiffuSeq) dataset processing
 
 An jupyter notebook code that can be used to add some task description to DiffuSeq dataset.
