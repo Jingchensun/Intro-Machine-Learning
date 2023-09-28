@@ -1,1 +1,32 @@
-[{"img_name": "images/2007_000123.jpg", "class_name": "dogs", "bbox_anno": ["1", " 26", " 358", " 340"]}, {"img_name": "images/2007_000027.jpg", "class_name": "person", "bbox_anno": ["174", " 101", " 349", " 351"]}, {"img_name": "images/2007_000027.jpg", "class_name": "person", "bbox_anno": ["174", " 101", " 349", " 351"]}][{"img_name": "images/2007_000123.jpg", "class_name": "dogs", "bbox_anno": ["1", " 26", " 358", " 340"]}, {"img_name": "images/2007_000027.jpg", "class_name": "person", "bbox_anno": ["174", " 101", " 349", " 351"]}, {"img_name": "images/2007_000027.jpg", "class_name": "person", "bbox_anno": ["174", " 101", " 349", " 351"]}]
+[
+    {
+        "img_name": "images/2007_000123.jpg",
+        "class_name": "dogs",
+        "bbox_anno": [
+            "1",
+            " 26",
+            " 358",
+            " 340"
+        ]
+    },
+    {
+        "img_name": "images/2007_000027.jpg",
+        "class_name": "person",
+        "bbox_anno": [
+            "174",
+            " 101",
+            " 349",
+            " 351"
+        ]
+    },
+    {
+        "img_name": "images/2007_000027.jpg",
+        "class_name": "person",
+        "bbox_anno": [
+            "174",
+            " 101",
+            " 349",
+            " 351"
+        ]
+    }
+]
