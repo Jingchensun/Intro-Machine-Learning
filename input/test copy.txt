@@ -1,0 +1,3 @@
+images/2007_000123.jpg,"[{'class': 'dogs', 'points': [(1, 26), (358, 340)]}]"
+images/2007_000027.jpg,"[{'class': 'person', 'points': [(174, 101), (349, 351)]}]"
+images/2007_000027.jpg,"[{'class': 'person', 'points': [(174, 101), (349, 351)]}]"
